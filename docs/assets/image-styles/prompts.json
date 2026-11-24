@@ -1,0 +1,37 @@
+{
+  "purpose": "동일한 관세 원고 소재의 스타일 비교 시안",
+  "source_episode": "2026-11-11",
+  "production_episode": false,
+  "variants": [
+    {
+      "style": "플랫 벡터",
+      "file": "flat-vector.png",
+      "initial_prompt": "Create a full-bleed landscape 16:9 background image for an English listening video. Same subject for a visual style comparison: North American cross-border trade facing uncertainty, a freight truck, shipping containers, stacked lumber, plain dairy cartons and unlabelled wine bottles in a cargo terminal. Convey paused trade negotiations conceptually without depicting a complete trade shutdown, economic crash or a specific real incident. No readable words, letters, numbers, prices, graphs, maps, logos, national flags or watermarks. No identifiable politicians. Main objects in center and upper-middle; top 10% and bottom 25% less busy for text to be separately composited. Do not put any title or captions into the image. STYLE: bold modern flat vector editorial graphics with clean geometric silhouettes, crisp hard edges, limited cobalt blue, white, coral red and charcoal palette. Strong asymmetric diagonal composition and clear negative space, a close foreground truck and simplified goods with container blocks behind. No realistic shading, no paper texture, no beige watercolor, no people around a meeting table. Truly two-dimensional graphic shapes, sophisticated adult news illustration.",
+      "final_edit_summary": "기존 매체·팔레트·소재를 유지하고 일시정지 버튼, 물음표, 말풍선, 악수 아이콘, 설명용 기호를 제거. 사진풍 시안은 표지판 전체와 트럭 로고·컨테이너 문자도 제거. 실제 물류 설비와 게이트는 유지.",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "style": "아이소메트릭 3D",
+      "file": "isometric-3d.png",
+      "initial_prompt": "Create a full-bleed landscape 16:9 background image for an English listening video. Same subject for a visual style comparison: North American cross-border trade facing uncertainty, a freight truck, shipping containers, stacked lumber, plain dairy cartons and unlabelled wine bottles in a cargo terminal. Convey paused trade negotiations conceptually without depicting a complete trade shutdown, economic crash or a specific real incident. No readable words, letters, numbers, prices, graphs, maps, logos, national flags or watermarks. No identifiable politicians. Main objects in center and upper-middle; top 10% and bottom 25% less busy for text to be separately composited. Do not put any title or captions into the image. STYLE: high-quality stylized isometric 3D miniature scene, tactile smooth clay and matte plastic objects, soft studio ambient occlusion and clean shadows. Lilac, mint, cool gray and deep violet palette on a pale lavender background. Elevated three-quarter view of a compact cargo depot arranged as a small designed diorama, physically readable truck and trade goods. No paper texture, no painted illustration, no sepia, no realistic portrait or meeting-room scene. Full background fills landscape frame.",
+      "final_edit_summary": "기존 매체·팔레트·소재를 유지하고 일시정지 버튼, 물음표, 말풍선, 악수 아이콘, 설명용 기호를 제거. 사진풍 시안은 표지판 전체와 트럭 로고·컨테이너 문자도 제거. 실제 물류 설비와 게이트는 유지.",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "style": "사진풍",
+      "file": "photographic.png",
+      "initial_prompt": "Create a full-bleed landscape 16:9 background image for an English listening video. Same subject for a visual style comparison: North American cross-border trade facing uncertainty, a freight truck, shipping containers, stacked lumber, plain dairy cartons and unlabelled wine bottles in a cargo terminal. Convey paused trade negotiations conceptually without depicting a complete trade shutdown, economic crash or a specific real incident. No readable words, letters, numbers, prices, graphs, maps, logos, national flags or watermarks. No identifiable politicians. Main objects in center and upper-middle; top 10% and bottom 25% less busy for text to be separately composited. Do not put any title or captions into the image. STYLE: cinematic editorial photographic realism of a fictional cargo terminal. Cool natural overcast daylight, slate gray industrial structures, muted red containers, white truck and realistic wooden materials, crisp material detail, medium-wide eye-level perspective with restrained depth of field. Realistic scale and plausible logistics layout. No people necessary. No brush strokes, no illustration, no watercolor, no cream-peach color grading. This is a created conceptual image, not a recreation of a named actual event.",
+      "final_edit_summary": "기존 매체·팔레트·소재를 유지하고 일시정지 버튼, 물음표, 말풍선, 악수 아이콘, 설명용 기호를 제거. 사진풍 시안은 표지판 전체와 트럭 로고·컨테이너 문자도 제거. 실제 물류 설비와 게이트는 유지.",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ]
+}
